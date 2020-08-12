@@ -21,6 +21,9 @@ description: PicDB is a collection repository filled with photos
 github: https://github.com/sakurailh/
 rss: true
 
+favicon: "assets/img/favicon.ico"
+avatar: "assets/img/avatar.webp"
+
 plugins:
   - rouge
   - kramdown
